@@ -1,0 +1,5 @@
+Tecnologías sugeridas:
+- Backend: Python (Flask o Django)
+- Frontend: HTML, CSS, JavaScript (opcional: React)
+
+- Redes neuronales: Integración opcional de modelos de redes neuronales utilizando TensorFlow o PyTorch para funcionalidades avanzadas como clasificación automática de tareas o recomendaciones inteligentes.
